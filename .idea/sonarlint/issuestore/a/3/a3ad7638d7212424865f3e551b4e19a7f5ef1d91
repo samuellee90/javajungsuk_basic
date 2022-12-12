@@ -1,0 +1,48 @@
+
+h
+java:S1192C"MDefine a constant instead of duplicating this literal " is waiting." 3 times.(š‡»Íøÿÿÿÿ
+a
+java:S1192
+"FDefine a constant instead of duplicating this literal "donut" 3 times.(Òøôûúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ž‚ì†ùÿÿÿÿ
+=
+java:S21890""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+>	java:S108")Either remove or fill this block of code.(ä ¹€
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ýûíýúÿÿÿÿ
+D
+java:S21401")Use "java.util.Random.nextInt()" instead.( üîÁùÿÿÿÿ
+t
+java:S21425"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+>	java:S1085")Either remove or fill this block of code.(ä ¹€
+h	java:S116="SRename this field "MAX_FOOD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èõòê
+7
+java:S1170="!Make this final field static too.(Èõòê
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(š‡»Íøÿÿÿÿ
+t
+java:S2142G"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Y
+java:S2276F"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¬Æ„°
+>	java:S108G")Either remove or fill this block of code.(ä ¹€
+K
+java:S2446K"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(•óÆ
+T
+java:S1155S">Use isEmpty() to check whether the collection is empty or not.(¦‰Êî
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(š‡»Íøÿÿÿÿ
+t
+java:S2142X"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Y
+java:S2276W"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¬Æ„°
+>	java:S108X")Either remove or fill this block of code.(ä ¹€
+K
+java:S2446`"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+t
+java:S2142i"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(š‡»Íøÿÿÿÿ
+^
+java:S2276h"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(€­íÜüÿÿÿÿ
+>	java:S108i")Either remove or fill this block of code.(ä ¹€

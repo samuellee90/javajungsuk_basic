@@ -1,0 +1,20 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öú´
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ì™Á©úÿÿÿÿ
+g	java:S101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²ñºžÿÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+>	java:S108")Either remove or fill this block of code.(ä ¹€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õÜÁŽøÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥¿“¦ùÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(¥¿“¦ùÿÿÿÿ
+P
+java:S1161"":Add the "@Override" annotation above this method signature(“–ýþ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(þÁ¨Ÿ
+6
+java:S2129$" Remove this "String" constructor(þÁ¨Ÿ
